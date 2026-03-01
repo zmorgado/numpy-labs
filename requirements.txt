@@ -50,3 +50,4 @@ typing_extensions==4.15.0
 utils==1.0.2
 wcwidth==0.3.5
 widgetsnbextension==4.0.15
+wandb==0.23.0
