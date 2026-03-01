@@ -3,15 +3,6 @@
 This repository is the first module in an AI specialization track.
 It focuses on foundational linear algebra and NumPy skills through hands-on notebooks.
 
-## Module Goals
-
-By the end of this module, you should be able to:
-- Work confidently with NumPy arrays.
-- Represent linear systems in matrix form.
-- Perform core vector and matrix operations.
-- Understand matrix multiplication and linear transformations.
-- Visualize simple linear systems in 2D.
-
 ## Repository Structure
 
 - `math/` — Jupyter notebooks and images for module exercises.
